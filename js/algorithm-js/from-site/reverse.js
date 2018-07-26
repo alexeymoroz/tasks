@@ -10,6 +10,3 @@ reverse = (str) => {
 };
 
 console.log(reverse('aaaa'));
-
-console.log(true - undefined);
-
