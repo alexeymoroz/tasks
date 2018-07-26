@@ -9,4 +9,4 @@ reverse = (str) => {
   return reverseString;
 };
 
-console.log(reverse('aaaa'));
+console.log(reverse("Alex"));
